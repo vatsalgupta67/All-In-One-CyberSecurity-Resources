@@ -13,4 +13,4 @@ https://github.com/vatsalgupta67/All-in-one-CyberSecurity-Resources/blob/main/Co
 https://github.com/vatsalgupta67/All-in-one-CyberSecurity-Resources/blob/main/Common-Hindi-Youtube-Channels
 
 
-Hindi youtube channels (https://github.com/vatsalgupta67/All-in-one-CyberSecurity-Resources/blob/main/Common-Hindi-Youtube-Channels)
+[Hindi youtube channels] (https://github.com/vatsalgupta67/All-in-one-CyberSecurity-Resources/blob/main/Common-Hindi-Youtube-Channels)
