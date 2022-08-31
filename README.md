@@ -9,4 +9,5 @@ We planned to create a common repo for all, which can act as a pyramid for other
 # Youtube Channels English 
 https://github.com/vatsalgupta67/All-in-one-CyberSecurity-Resources/blob/main/Common-English-Youtube-Channels
 
-
+# Youtube Channels Hindi 
+https://github.com/vatsalgupta67/All-in-one-CyberSecurity-Resources/blob/main/Common-Hindi-Youtube-Channels
