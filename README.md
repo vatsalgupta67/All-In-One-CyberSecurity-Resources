@@ -2,7 +2,11 @@
 List of CyberSecurity Resources with some different Sub-Sets of CyberSecurity.
 
 # Vision  
-We planned to create a common repo for all, which can act as a pyramid for other new sub-sets in industry
+A common updated repo for all, which can act as a pyramid for other new sub-sets in industry 
+
+respect for original creators who worked hard for creating Aweasome Resources for our Industry
+
+![respect](https://user-images.githubusercontent.com/71017420/187759532-30ab6b9b-416a-475c-9915-26f71c91c0ca.jpeg)
 
 # UNDER-DEVELOPMENT
 
