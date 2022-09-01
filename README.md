@@ -1,4 +1,4 @@
-# All-in-one-CyberSecurity-Resources
+# All-In-One-CyberSecurity-Resources
 List of CyberSecurity Resources with some different Sub-Sets of CyberSecurity.
 
 # UNDER-DEVELOPMENT
