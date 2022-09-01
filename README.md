@@ -15,8 +15,11 @@ We are here to help beginners for initializing access in industry!!
 # Prerequisites for CyberSecurity
 
 ###### well, you should know these things mentioned below - 
-1. Linux - Youtube is full of linux :)
+1. Linux, windows command line(cmd and powershell) and file system - **Youtube is full of both :)**
 2. Programming - Start with python then, you'll get the idea for future -  **FreeCodeCamp(Youtube)**
+3. Cryptography basics - I will recommend you to do  -  **Same answer youtube**
+4. Technical skills - example memory, cpu, gpu, bios, dealing with harware components aswell as basic technical operations - *Internet is your friend *:)
+5. Computer Networking - *Something you must know* - **Again same answer, it's Youtube**
 
 # Youtube Channels
 
