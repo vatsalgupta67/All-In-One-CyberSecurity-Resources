@@ -1,6 +1,6 @@
 # All-In-One-CyberSecurity-Resources
 List of CyberSecurity Resources with some different Sub-Sets of CyberSecurity.
-
+## To the community, by the community and for the community
 # UNDER-DEVELOPMENT
 
 # Vision  
@@ -34,3 +34,18 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
 
 * [Hindi youtube channels](https://github.com/vatsalgupta67/All-in-one-CyberSecurity-Resources/blob/main/Common-Hindi-Youtube-Channels)
+
+# Websites
+
+* [Hackers-arise](https://www.hackers-arise.com) by a amazing person - Occupy The Web
+* [Hacking Articles](https://www.hackingarticles.in) by Ignite Technologies India
+* [Null-Byte](https://null-byte.wonderhowto.com) 
+* [HackerSploit](https://hackersploit.org)
+* [Sevagas](https://blog.sevagas.com)
+* [Ehacking](https://www.ehacking.net)
+* [sans free community resources](https://www.sans.org/security-resources/?msc=main-nav)
+* [Hacksplaining](https://www.hacksplaining.com)
+* [LiveOverflow](https://liveoverflow.com)
+* [Infinite Logins](https://infinitelogins.com)
+* [Zsecurity](https://zsecurity.org/hacking-and-security)
+
