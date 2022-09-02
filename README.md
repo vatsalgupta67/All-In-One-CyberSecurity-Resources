@@ -49,10 +49,13 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [Infinite Logins](https://infinitelogins.com)
 * [Zsecurity](https://zsecurity.org/hacking-and-security)
 
-# Platforms
+# Best labs
 
-* TryHackme
+* TryHackMe
 * HackTheBox
-* HackthisSite
+* HackThisSite
+* Proving Grounds
+* VulnHub
+
 
 
