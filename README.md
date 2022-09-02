@@ -1,7 +1,7 @@
 # All-In-One-CyberSecurity-Resources
 List of CyberSecurity Resources with some different Sub-Sets of CyberSecurity.
 ## To the community, by the community and for the community
-# UNDER-DEVELOPMENT :innocent: :blush:
+# UNDER-DEVELOPMENT :blush:
 
 # Vision  
 A common updated repo for all, which can act as a pyramid for sub-sets, walkthroughs, starting points, contents and other new or demanding resources in industry. 
