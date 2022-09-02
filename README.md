@@ -15,19 +15,19 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
 ## Some key guidance points in industry
 
-###### 1. Programming is the key element of everything and you must know, atleast understand some programs first.
-###### 2. CyberSecurity is not difficult at all, just a misconception.
-###### 3. Computer Networking is a soul of IT.
-###### 4. *Curiosity* makes individual successful. 
+  ###### 1. Programming is the key element of everything and you must know, atleast understand some programs first.
+  ###### 2. CyberSecurity is not difficult at all, just a misconception.
+  ###### 3. Computer Networking is a soul of IT.
+  ###### 4. *Curiosity* makes individual successful. 
 
 # Prerequisites for CyberSecurity
 
 ###### well, you should know these things mentioned below - 
-1. Linux, windows command line(cmd - powershell) and file system - **Youtube is full of both :)**
-2. Programming - Start with python then, you'll get the idea in future -  **FreeCodeCamp(Youtube)**
-3. Cryptography basics - I will recommend you to do this -  **Same answer youtube**.
-4. Technical skills - example memory, cpu, bios, dealing with harware components aswell as basic technical operations - *Internet is your friend*:)
-5. Computer Networking - *Something you must know* - **Again same answer, it's Youtube**.
+        1. Linux, windows command line(cmd - powershell) and file system - **Youtube is full of both :)**
+        2. Programming - Start with python then, you'll get the idea in future -  **FreeCodeCamp(Youtube)**
+        3. Cryptography basics - I will recommend you to do this -  **Same answer youtube**.
+        4. Technical skills - example memory, cpu, bios, dealing with harware components aswell as basic technical operations - *Internet is your friend*:)
+        5. Computer Networking - *Something you must know* - **Again same answer, it's Youtube**.
 
 # Youtube Channels
 
