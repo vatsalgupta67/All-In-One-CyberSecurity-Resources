@@ -13,7 +13,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
 ![respect](https://user-images.githubusercontent.com/71017420/187759532-30ab6b9b-416a-475c-9915-26f71c91c0ca.jpeg)
 
-## Some key guidance points in industry
+## Some important key points in industry
 
   ###### * Programming is the key element of everything and you must know, atleast understand some programs first.
   ###### * CyberSecurity is not difficult at all, just a misconception.
