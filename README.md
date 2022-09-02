@@ -49,3 +49,10 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [Infinite Logins](https://infinitelogins.com)
 * [Zsecurity](https://zsecurity.org/hacking-and-security)
 
+# Platforms
+
+* TryHackme
+* HackTheBox
+* HackthisSite
+
+
