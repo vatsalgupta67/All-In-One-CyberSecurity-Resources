@@ -15,10 +15,10 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
 ## Some key guidance points in industry
 
-  ###### 1. Programming is the key element of everything and you must know, atleast understand some programs first.
-  ###### 2. CyberSecurity is not difficult at all, just a misconception.
-  ###### 3. Computer Networking is a soul of IT.
-  ###### 4. *Curiosity* makes individual successful. 
+  ###### -1. Programming is the key element of everything and you must know, atleast understand some programs first.
+  ###### -2. CyberSecurity is not difficult at all, just a misconception.
+  ###### -3. Computer Networking is a soul of IT.
+  ###### -4. *Curiosity* makes individual successful. 
 
 # Prerequisites for CyberSecurity
 
