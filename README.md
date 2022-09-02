@@ -12,7 +12,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
 ![respect](https://user-images.githubusercontent.com/71017420/187759532-30ab6b9b-416a-475c-9915-26f71c91c0ca.jpeg)
 
-## Some key guidance points which can help you definitely from beginning to end :)
+## Some key guidance points in industry
 
 ###### 1. Programming is the key element of everything and you must know, atleast understand some programs first.
 ###### 2. CyberSecurity is not difficult at all, just a misconception.
@@ -22,8 +22,8 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 # Prerequisites for CyberSecurity
 
 ###### well, you should know these things mentioned below - 
-1. Linux, windows command line(cmd - powershell) and file system - **Youtube is full of both :)**.
-2. Programming - Start with python then, you'll get the idea in future -  **FreeCodeCamp(Youtube)**.
+1. Linux, windows command line(cmd - powershell) and file system - **Youtube is full of both :)**
+2. Programming - Start with python then, you'll get the idea in future -  **FreeCodeCamp(Youtube)**
 3. Cryptography basics - I will recommend you to do this -  **Same answer youtube**.
 4. Technical skills - example memory, cpu, bios, dealing with harware components aswell as basic technical operations - *Internet is your friend*:)
 5. Computer Networking - *Something you must know* - **Again same answer, it's Youtube**.
