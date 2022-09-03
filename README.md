@@ -77,5 +77,9 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [Awesome-Security](https://github.com/mbcrump/awesome-security)
 * [Awesome-Infosec](https://github.com/onlurking/awesome-infosec)
 
+# Podcasts
+
+* [Delinea](https://delinea.com/events/podcasts)
+ 
 
 
