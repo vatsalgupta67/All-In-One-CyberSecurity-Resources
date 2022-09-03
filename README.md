@@ -99,7 +99,14 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 5. ***Udemy***
 6. ***PluralSight***
 
+# Conferences
 
+* *BlackHat*
+* *DEF CON*
+* *NullCon*
+* *Hack In The Box*
+* *BSides*
+* *RSA Conference*
  
 
 
