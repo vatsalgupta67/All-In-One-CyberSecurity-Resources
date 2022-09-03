@@ -16,8 +16,8 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 ## Some important key points in industry
 
   * ###### Programming is the key element of everything and you must know, atleast understand some programs first.
-  *###### CyberSecurity is not difficult at all, just a misconception.
-  *###### Computer Networking is a soul of IT.
+  * ###### CyberSecurity is not difficult at all, just a misconception.
+  * ###### Computer Networking is a soul of IT.
   * ######  *Curiosity* makes individual successful. 
 
 # Prerequisites for CyberSecurity
