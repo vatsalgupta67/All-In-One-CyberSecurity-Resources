@@ -85,6 +85,9 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [Awesome-Infosec](https://github.com/onlurking/awesome-infosec)
 * [CyberSecurity](https://github.com/harisqazi1/Cybersecurity)
 
+
+![giphy (1)](https://user-images.githubusercontent.com/71017420/188283309-377e2078-55ae-4974-b91b-8a52b27db27d.gif)
+
 # Podcasts
 
 * [Delinea](https://delinea.com/events/podcasts)
