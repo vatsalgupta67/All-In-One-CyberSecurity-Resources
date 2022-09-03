@@ -126,4 +126,16 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [ThreatNinja](https://threatninja.net) -  HTB CTF WriteUps
 
 
+# ICS/Scada 
+
+* [Hacker-Arise-Scada](https://www.hackers-arise.com/scada-hacking)
+* [ICS-Pentesting-Tools](https://github.com/kh4sh3i/ICS-Pentesting-Tools)
+* [Awesome-IndustryControlSystems](https://github.com/hslatman/awesome-industrial-control-system-security)
+* [ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools)
+* [ICS-Hacking](https://github.com/miguelob/ICS-Hacking)
+* [Aweasome-ICS-WriteUps](https://github.com/neutrinoguy/awesome-ics-writeups)
+* [Awesome-IOT-ICS](https://github.com/reaperb0t/awesome-iot-ics-embed-pentest) - Combined short tutorials of both ICS and IOT
+
+
+
 
