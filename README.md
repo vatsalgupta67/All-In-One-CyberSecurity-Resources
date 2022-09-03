@@ -55,7 +55,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [Infinite Logins](https://infinitelogins.com)
 * [Zsecurity](https://zsecurity.org/hacking-and-security)
 
-# Best labs
+## Best labs
 
 * TryHackMe
 * HackTheBox
@@ -87,7 +87,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
 ![giphy (1)](https://user-images.githubusercontent.com/71017420/188283309-377e2078-55ae-4974-b91b-8a52b27db27d.gif)
 
-# Podcasts
+## Podcasts
 
 * [Delinea](https://delinea.com/events/podcasts)
 * [Infosec-live](https://www.youtube.com/c/infoseclive/featured)
@@ -99,7 +99,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [Hacker-valley](https://hackervalley.com)
 * [CyberSecurity-Today](https://podcasts.apple.com/us/podcast/cybersecurity-today/id1363182054)
 
-# Platforms
+## Platforms
 1. ***Cybrary***
 2. ***ItProTv***
 3. ***EC-Council's Codered***
@@ -107,7 +107,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 5. ***Udemy***
 6. ***PluralSight***
 
-# Conferences
+## Conferences
 
 * *BlackHat*
 * *DEF CON*
@@ -116,7 +116,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * *BSides*
 * *RSA Conference*
 
-# InfosecNews and Writeups
+## InfosecNews and Writeups
 
 * [Dark-Reading](https://www.darkreading.com)
 * [ThreatPost](https://threatpost.com)
@@ -126,7 +126,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [ThreatNinja](https://threatninja.net) -  HTB CTF WriteUps
 
 
-# ICS/Scada Operations
+# *ICS/Scada Operations*
 
 * [Hacker-Arise-Scada](https://www.hackers-arise.com/scada-hacking)
 * [ICS-Pentesting-Tools](https://github.com/kh4sh3i/ICS-Pentesting-Tools)
