@@ -107,6 +107,14 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * *Hack In The Box*
 * *BSides*
 * *RSA Conference*
- 
+
+# InfosecNews and Writeups
+
+* [Dark-Reading](https://www.darkreading.com)
+* [ThreatPost](https://threatpost.com)
+* [The Hacker News](https://thehackernews.com)
+* [Infosec-Writeups](https://infosecwriteups.com/tagged/medium)
+* [Ctf-Writeups](https://medium.com/ctf-writeups/tagged/cybersecurity)
+
 
 
