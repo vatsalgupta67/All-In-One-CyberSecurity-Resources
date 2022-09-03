@@ -29,6 +29,9 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 4. Technical skills - example memory, cpu, bios, dealing with harware components aswell as basic technical operations - ***Internet is your friend:)***
 5. Computer Networking - *Something you must know* - **Again same answer, it's Youtube**.
 
+
+![image](https://user-images.githubusercontent.com/71017420/188282836-e1017b37-d11d-46c8-9a81-b0788e15c51c.jpg)
+
 # Youtube Channels
 
 * [English Youtube Channels](https://github.com/vatsalgupta67/All-in-one-CyberSecurity-Resources/blob/main/Common-English-Youtube-Channels)
