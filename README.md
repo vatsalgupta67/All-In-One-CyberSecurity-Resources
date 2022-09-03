@@ -124,7 +124,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [The Hacker News](https://thehackernews.com)
 * [Infosec-Writeups](https://infosecwriteups.com/tagged/medium)
 * [Ctf-Writeups](https://medium.com/ctf-writeups/tagged/cybersecurity)
-* [ThreatNinja](https://threatninja.net)
+* [ThreatNinja](https://threatninja.net) -  HTB CTF WriteUps
 
 
 
