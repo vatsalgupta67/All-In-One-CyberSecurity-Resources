@@ -33,7 +33,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 5. Computer Networking - *Something you must know* - **Again same answer, it's Youtube**.
 
 
-![image](https://user-images.githubusercontent.com/71017420/188282836-e1017b37-d11d-46c8-9a81-b0788e15c51c.jpg)
+               ![image](https://user-images.githubusercontent.com/71017420/188282836-e1017b37-d11d-46c8-9a81-b0788e15c51c.jpg)
 
 # Youtube Channels
 
