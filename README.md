@@ -26,7 +26,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 1. Linux, windows command line(cmd - powershell) and file system - **Youtube is full of both :)**
 2. Programming - Start with python then, you'll get the idea in future -  **FreeCodeCamp(Youtube)**
 3. Cryptography basics - I will recommend you to do this -  **Same answer youtube**.
-4. Technical skills - example memory, cpu, bios, dealing with harware components aswell as basic technical operations - *Internet is your friend*:)
+4. Technical skills - example memory, cpu, bios, dealing with harware components aswell as basic technical operations - ***Internet is your friend:)***
 5. Computer Networking - *Something you must know* - **Again same answer, it's Youtube**.
 
 # Youtube Channels
