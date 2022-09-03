@@ -80,6 +80,15 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 # Podcasts
 
 * [Delinea](https://delinea.com/events/podcasts)
+* [Infosec-live](https://www.youtube.com/c/infoseclive/featured)
+* [Darknet-Diaries](https://darknetdiaries.com)
+* [TheCyberWire](https://thecyberwire.com) - Huge collection of Podcasts
+* [Red-Team-Podcasts](https://www.podchaser.com/podcasts/red-team-podcast-585628)
+* [social-engineer](https://www.social-engineer.org/podcasts)
+* [sans-podcast](https://isc.sans.edu/podcast)
+* [Hacker-valley](https://hackervalley.com)
+* [CyberSecurity-Today](https://podcasts.apple.com/us/podcast/cybersecurity-today/id1363182054)
+
  
 
 
