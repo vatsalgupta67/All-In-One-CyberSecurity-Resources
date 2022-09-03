@@ -77,6 +77,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [Awesome-Security](https://github.com/mbcrump/awesome-security)
 * [Awesome-Blue-Team-CyberSecurity](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 * [Awesome-Infosec](https://github.com/onlurking/awesome-infosec)
+* [CyberSecurity](https://github.com/harisqazi1/Cybersecurity)
 
 # Podcasts
 
