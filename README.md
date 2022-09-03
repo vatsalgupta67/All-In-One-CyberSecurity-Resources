@@ -71,7 +71,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * Proving Grounds
 * VulnHub
 
-# Simple GitHub CyberSecurity - Penetesting Repos
+## Simple GitHub CyberSecurity - Penetesting Repos
 * [Aweasome-CyberSecurity](https://github.com/fabionoth/awesome-cyber-security)
 * [Aweasome-Pentest](https://github.com/enaqx/awesome-pentest)
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)
