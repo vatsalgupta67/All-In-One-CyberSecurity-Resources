@@ -126,7 +126,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [ThreatNinja](https://threatninja.net) -  HTB CTF WriteUps
 
 
-# ICS/Scada 
+# ICS/Scada Operations
 
 * [Hacker-Arise-Scada](https://www.hackers-arise.com/scada-hacking)
 * [ICS-Pentesting-Tools](https://github.com/kh4sh3i/ICS-Pentesting-Tools)
