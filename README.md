@@ -40,14 +40,16 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
 ![image](https://user-images.githubusercontent.com/71017420/188282836-e1017b37-d11d-46c8-9a81-b0788e15c51c.jpg)
 
-# Youtube Channels
+# *Common CyberSecurity Resources*
+
+## Youtube Channels
 
 * [English Youtube Channels](https://github.com/vatsalgupta67/All-in-one-CyberSecurity-Resources/blob/main/Common-English-Youtube-Channels)
 
 
 * [Hindi youtube channels](https://github.com/vatsalgupta67/All-in-one-CyberSecurity-Resources/blob/main/Common-Hindi-Youtube-Channels)
 
-# Websites
+## Websites
 
 * [Hackers-arise](https://www.hackers-arise.com) by a amazing person - Occupy The Web
 * [Hacking Articles](https://www.hackingarticles.in) by Ignite Technologies India
