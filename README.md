@@ -58,5 +58,24 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * Proving Grounds
 * VulnHub
 
+# Simple GitHub CyberSecurity - Penetesting Repos
+* [Aweasome-CyberSecurity](https://github.com/fabionoth/awesome-cyber-security)
+* [Aweasome-Pentest](https://github.com/enaqx/awesome-pentest)
+* [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)
+* [Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools)
+* [Public-Pentesting-Reports](https://github.com/juliocesarfort/public-pentesting-reports)
+* [Beginners-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
+* [Hacker-Roadmap](https://github.com/sundowndev/hacker-roadmap)
+* [Web-Pentesting-Scratch](https://github.com/PacktPublishing/Learn-Website-Hacking-Penetration-Testing-From-Scratch)
+* [Awesome-Pentest-Cheetsheet](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
+* [Awesome-Security](https://github.com/sbilly/awesome-security)
+* [Personal-Security](https://github.com/Lissy93/personal-security-checklist)
+* [Awesome-Cyber-Skills](https://github.com/joe-shenouda/awesome-cyber-skills)
+* [Awesome-Hacking](https://github.com/carpedm20/awesome-hacking)
+* [Awesome-Cyber-Security](https://github.com/okhosting/awesome-cyber-security)
+* [awesome-cybersec](https://github.com/theredditbandit/awesome-cybersec)
+* [Awesome-Security](https://github.com/mbcrump/awesome-security)
+* [Awesome-Infosec](https://github.com/onlurking/awesome-infosec)
+
 
 
