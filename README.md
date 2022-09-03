@@ -9,6 +9,12 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
 **We are here to help beginners for initializing their access in industry!!**
 
+# Index
+* [Important-Key-Points](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources#some-important-key-points-in-industry)
+* [Prerequisites for CyberSecurity](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources#prerequisites-for-cybersecurity)
+* [Commonn-CyberSecurity-Resources](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#common-cybersecurity-resources)
+* [ICS/SCADA Operations](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#icsscada-operations)
+
 ## Respect to  original creators who worked really hard for creating Aweasome Resources for our Industry -
 
 ![respect](https://user-images.githubusercontent.com/71017420/187759532-30ab6b9b-416a-475c-9915-26f71c91c0ca.jpeg)
@@ -34,16 +40,14 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
 ![image](https://user-images.githubusercontent.com/71017420/188282836-e1017b37-d11d-46c8-9a81-b0788e15c51c.jpg)
 
-# *Common CyberSecurity Resources*
-
-## Youtube Channels
+# Youtube Channels
 
 * [English Youtube Channels](https://github.com/vatsalgupta67/All-in-one-CyberSecurity-Resources/blob/main/Common-English-Youtube-Channels)
 
 
 * [Hindi youtube channels](https://github.com/vatsalgupta67/All-in-one-CyberSecurity-Resources/blob/main/Common-Hindi-Youtube-Channels)
 
-## Websites
+# Websites
 
 * [Hackers-arise](https://www.hackers-arise.com) by a amazing person - Occupy The Web
 * [Hacking Articles](https://www.hackingarticles.in) by Ignite Technologies India
@@ -65,7 +69,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * Proving Grounds
 * VulnHub
 
-## Simple GitHub CyberSecurity - Penetesting Repos
+# Simple GitHub CyberSecurity - Penetesting Repos
 * [Aweasome-CyberSecurity](https://github.com/fabionoth/awesome-cyber-security)
 * [Aweasome-Pentest](https://github.com/enaqx/awesome-pentest)
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)
