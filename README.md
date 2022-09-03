@@ -90,12 +90,12 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [CyberSecurity-Today](https://podcasts.apple.com/us/podcast/cybersecurity-today/id1363182054)
 
 # Platforms
-1. **Cybrary**
-2. **ItProTv**
-3. **EC-Council's Codered**
-4. **OPSWAT Academy**
-5. **Udemy**
-6. **PluralSight**
+1. ***Cybrary***
+2. ***ItProTv***
+3. ***EC-Council's Codered***
+4. ***OPSWAT Academy***
+5. ***Udemy***
+6. ***PluralSight***
 
 
  
