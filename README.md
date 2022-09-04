@@ -137,6 +137,8 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
 # *ICS/Scada Operations*
 
+![images](https://user-images.githubusercontent.com/71017420/188329134-a576d3d5-c55a-4d18-a392-53393576b0fa.jpg)
+
 * [Hacker-Arise-Scada](https://www.hackers-arise.com/scada-hacking)
 * [ICS-Pentesting-Tools](https://github.com/kh4sh3i/ICS-Pentesting-Tools)
 * [Awesome-IndustryControlSystems](https://github.com/hslatman/awesome-industrial-control-system-security)
@@ -146,6 +148,9 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [Awesome-IOT-ICS](https://github.com/reaperb0t/awesome-iot-ics-embed-pentest) - Combined short tutorials of both ICS and IOT
 
 # *Red Team Operations/Adversary Emulation*
+
+![cybersecurity-RED-TEAM-CYBER-partner-page](https://user-images.githubusercontent.com/71017420/188329245-2b776c57-a1ed-41e4-a22a-b0667eb74b92.png)
+
 * [Hacking-Articles-Red-Teaming](https://www.hackingarticles.in/red-teaming) - Most updated with deep knowledge
 * [RedTeaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
 * [Awesome-Red-Teaming-Resources](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
