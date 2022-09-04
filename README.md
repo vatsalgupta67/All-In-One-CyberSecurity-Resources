@@ -144,6 +144,18 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [Aweasome-ICS-WriteUps](https://github.com/neutrinoguy/awesome-ics-writeups)
 * [Awesome-IOT-ICS](https://github.com/reaperb0t/awesome-iot-ics-embed-pentest) - Combined short tutorials of both ICS and IOT
 
+# *Red Team Operations/Adversary Emulation*
+* [Hacking-Articles-Red-Teaming](https://www.hackingarticles.in/red-teaming) - Most updated with deep knowledge
+* [RedTeaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
+* [Awesome-Red-Teaming-Resources](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+* [Red-Team-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity)
+* [Awesome-Red-Team-Operations](https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations)
+* [Red-Teaming/Adversary-Emulation](https://0x1.gitlab.io/pentesting/Red-Teaming-Toolkit)
+* [Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#further-resources)
+* [Adversary-Emulation-Library](https://github.com/center-for-threat-informed-defense/adversary_emulation_library)
+* [MITRE ATT&CK®](https://attack.mitre.org)
+* [awesome-red-teaming](https://github.com/an4kein/awesome-red-teaming)
+
 
 
 
