@@ -39,6 +39,43 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 3. Cryptography basics - I will recommend you to do this -  **Same answer youtube**.
 4. Technical skills - example memory, cpu, bios, dealing with harware components aswell as basic technical operations - ***Internet is your friend:)***
 5. Computer Networking - *Something you must know* - **Again same answer, it's Youtube**.
+6. Research or Googling - *Very Important in CyberSecurity*.
+
+# *Our suggestion on Programming Languages*
+
+![images](https://user-images.githubusercontent.com/71017420/188496502-581d07c7-3e93-4fb2-b63c-12ace1a6e5f8.jpg)
+
+## Beginners
+* Python - According to us, we'll suggest to learn Python first
+
+## Intermediate - in Corporate Networks
+
+* Python
+* Bash
+* C (basics) - some understanding is **OK**
+* SQL
+* JavaScript (basics) - Web related
+* PHP (basics) - Web related
+
+## Person who have some Curiosity and ready to do anything!
+
+* Python (Recommended to all)
+* SQL (Recommended to all)
+* C (basics) - Recommended basic C to all 
+* Bash (Recommended to all)
+* Csharp (Recommended to all)
+* Cpp (MOSTLY recommended to Red Team Ops)
+* Assembly - (Mostly to Red Team Ops, Exploit Developers and Reverse Engineers)
+* Ruby ( Interest Based)
+* Perl (Interest Based)
+* Go (Interest Based)
+* JavaScript (basic) - Web-Apps Pentesters
+* PHP (basic) - Web-Apps Pentesters
+* nodejs ( Recommended to WebApps Pentesters ....) - Nowdays, Corporates started moving towards nodejs rather than PHP
+* Lua ( Interest Based......)
+* Java (Mostly to Android Application Pentesters)
+* Some Basic knowledge of visual basic, Powershell scripting (MOSTLY Red Team Ops) - Basically Windows based languages [***OPTIONAL, But you should be good in googling then it's optional for you. Sometimes we just need to ready our things on research basis***]
+
 
 ![image](https://user-images.githubusercontent.com/71017420/188282836-e1017b37-d11d-46c8-9a81-b0788e15c51c.jpg)
 
