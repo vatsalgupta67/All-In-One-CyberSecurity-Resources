@@ -201,6 +201,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [Adversary-Emulation-Library](https://github.com/center-for-threat-informed-defense/adversary_emulation_library)
 * [MITRE ATT&CK®](https://attack.mitre.org)
 * [awesome-red-teaming](https://github.com/an4kein/awesome-red-teaming)
+* [Red-Teaming-Toolkit-Collection](https://0xsp.com/offensive/red-teaming-toolkit-collection)
 
 
 
