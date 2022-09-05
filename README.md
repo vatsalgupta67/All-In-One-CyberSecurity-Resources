@@ -26,7 +26,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
   * ###### CyberSecurity is not difficult at all, just a misconception.
   * ###### Computer Networking is a soul of IT.
   * ######  *Curiosity* makes individual successful. 
-  * ###### Skill matters more than degree.
+  * ###### Skill matters not degrees.
  
 ![giphy](https://user-images.githubusercontent.com/71017420/188283253-1524eba1-f473-48e2-82db-3c90670cc0c6.gif)
 
