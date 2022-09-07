@@ -40,7 +40,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
 ![download](https://user-images.githubusercontent.com/71017420/188929763-d85e1a4c-0df8-426d-bb80-27ca41245dcc.jpg)
 
-***OfSec says you must try harder!!! - Abosolutely NOT "YOU MUST TRY SMARTER"***
+## ***OfSec says you must try harder!!! - Abosolutely NOT "YOU MUST TRY SMARTER"***
 
 
 ###### well, you should know these things mentioned below - 
