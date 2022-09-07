@@ -7,6 +7,8 @@ List of CyberSecurity Resources with some different Sub-Sets of CyberSecurity.
 # Vision  
 A common updated repo for all, which can act as a pyramid for sub-sets, walkthroughs, starting points, contents and other new or demanding resources in industry. **Consists of all free and publicly available resources**
 
+![Thomas-Edison-quote](https://user-images.githubusercontent.com/71017420/188928789-e8264de2-88c3-4fd6-ae4c-c58bc4f516ad.png)
+
 **We are here to help beginners for initializing their access in industry!!**
 
 # Index
@@ -16,6 +18,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [Commonn-CyberSecurity-Resources](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#common-cybersecurity-resources)
 * [ICS/SCADA Operations](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#icsscada-operations)
 * [Red Team Operations/Adversary Emulation](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#red-team-operationsadversary-emulation)
+* [Web-Application-Pentesting](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#web-application-pentesting)
 
 
 ## Respect to  original creators who worked really hard for creating Aweasome Resources for our Industry -
@@ -34,6 +37,9 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
 
 # Prerequisites for CyberSecurity
+
+![download](https://user-images.githubusercontent.com/71017420/188929763-d85e1a4c-0df8-426d-bb80-27ca41245dcc.jpg)
+
 
 ###### well, you should know these things mentioned below - 
 1. Linux, windows command line(cmd - powershell) and file system - **Youtube is full of both :)**
@@ -210,13 +216,14 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 ![images](https://user-images.githubusercontent.com/71017420/188921615-b1413a3c-6bbb-41fc-b33a-02397f16838a.png)
 
 * [Portswigger-Academy](https://portswigger.net) - Practical learning
-* [Web-Application-Pentesting](https://sango667.medium.com/resources-for-web-application-penetration-testing-95f64bb8333f) - Medium writeups for beginners to level-up
+* [Web-Application-Pentesting](https://sango667.medium.com/resources-for-web-application-penetration-testing-95f64bb8333f) - Medium writeups for beginners to level-up.
 * [Web-Tools-Resources](https://gbhackers.com/web-application-security-tools-resources)
 * [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking)
 * [Awesome-Web-Security](https://github.com/qazbnm456/awesome-web-security)
 * [Web-Checklists](https://github.com/Hari-prasaanth/Web-App-Pentest-Checklist)
 * [Web-Security-Roadmap](https://medium.com/@rezaduty/web-penetration-testing-roadmap-4e7bb9edf23b)
 * [WebSecurity-Stuff](https://relevant.software/blog/penetration-testing-for-web-applications)
+* [Owasp-Juice-Shop](https://github.com/juice-shop/juice-shop) - Helps to learn and deal web vulnerabilities.
 
 
 
