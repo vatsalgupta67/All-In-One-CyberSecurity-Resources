@@ -5,7 +5,7 @@ List of CyberSecurity Resources with some different Sub-Sets of CyberSecurity.
 ## *Made with :heart: in :india:*
  
 # Vision  
-A common updated repo for all, which can act as a pyramid for sub-sets, walkthroughs, starting points, contents and other new or demanding resources in industry. 
+A common updated repo for all, which can act as a pyramid for sub-sets, walkthroughs, starting points, contents and other new or demanding resources in industry. **Consists of all free and publicly available resources**
 
 **We are here to help beginners for initializing their access in industry!!**
 
@@ -173,6 +173,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [Infosec-Writeups](https://infosecwriteups.com/tagged/medium)
 * [Ctf-Writeups](https://medium.com/ctf-writeups/tagged/cybersecurity)
 * [ThreatNinja](https://threatninja.net) -  HTB CTF WriteUps
+* [GbHackers](https://gbhackers.com)
 
 
 # *ICS/Scada Operations*
@@ -203,6 +204,19 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [MITRE ATT&CK®](https://attack.mitre.org)
 * [awesome-red-teaming](https://github.com/an4kein/awesome-red-teaming)
 * [Red-Teaming-Toolkit-Collection](https://0xsp.com/offensive/red-teaming-toolkit-collection)
+
+# *Web-Application Pentesting*
+
+![images](https://user-images.githubusercontent.com/71017420/188921615-b1413a3c-6bbb-41fc-b33a-02397f16838a.png)
+
+* [Portswigger-Academy](https://portswigger.net) - Practical learning
+* [Web-Application-Pentesting](https://sango667.medium.com/resources-for-web-application-penetration-testing-95f64bb8333f) - Medium writeups for beginners to level-up
+* [Web-Tools-Resources](https://gbhackers.com/web-application-security-tools-resources)
+* [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking)
+* [Awesome-Web-Security](https://github.com/qazbnm456/awesome-web-security)
+* [Web-Checklists](https://github.com/Hari-prasaanth/Web-App-Pentest-Checklist)
+* [Web-Security-Roadmap](https://medium.com/@rezaduty/web-penetration-testing-roadmap-4e7bb9edf23b)
+* [WebSecurity-Stuff](https://relevant.software/blog/penetration-testing-for-web-applications)
 
 
 
