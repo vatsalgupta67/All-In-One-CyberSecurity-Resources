@@ -196,6 +196,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [Aweasome-ICS-WriteUps](https://github.com/neutrinoguy/awesome-ics-writeups)
 * [Awesome-IOT-ICS](https://github.com/reaperb0t/awesome-iot-ics-embed-pentest) - Combined short tutorials of both ICS and IOT
 * [Infosec-reference-Scada](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/SCADA.md#talks)
+* [ICS-Pentesting-Youtube](https://youtube.com/playlist?list=PLYXlhBJ7y2_CVdbG8YGmkhJHQLsquxbu2)
 
 # *Red Team Operations/Adversary Emulation*
 
