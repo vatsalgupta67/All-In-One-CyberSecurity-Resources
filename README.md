@@ -29,7 +29,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
   * ###### Programming is the key element of everything and you must know, atleast understand some programs first.
   * ###### CyberSecurity is not difficult at all, just a misconception.
-  * ###### Computer Networking is a soul of IT.
+  * ###### Computer Networking is soul of IT.
   * ######  *Curiosity* makes individual successful. 
   * ###### Skill matters not degrees.
  
