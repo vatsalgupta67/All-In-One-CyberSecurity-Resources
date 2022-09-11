@@ -228,6 +228,12 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [WebSecurity-Stuff](https://relevant.software/blog/penetration-testing-for-web-applications)
 * [Owasp-Juice-Shop](https://github.com/juice-shop/juice-shop) - Helps to learn and deal web vulnerabilities.
 
+# Exploit Development
+
+<img width="754" alt="pwndbg_context" src="https://user-images.githubusercontent.com/71017420/189518826-7182ce33-d57b-42ba-8f1c-b85ab9d7953e.png">
+
+
+
 
 
 
