@@ -232,6 +232,29 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
 <img width="754" alt="pwndbg_context" src="https://user-images.githubusercontent.com/71017420/189518826-7182ce33-d57b-42ba-8f1c-b85ab9d7953e.png">
 
+## Basics of Exploit Development
+
+* **Be familiar with Assembly Language**
+* **First solve some CrackMe's (Reverse Engineering)
+* **Fuzzing**
+* **Learn something about Zero-Day Vulnerabilities**
+* **Be familiar with Pwndbg (recommended)**
+* **What exactly is a shellcode**
+*  **Basics of C language atleast first**
+
+### ***Note - [Prerequisites of Cybersecurity](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources#prerequisites-for-cybersecurity) is needed in all the sub-sets !!!!***
+
+## Resources
+
+* [Exploit-Development-repo](https://github.com/wtsxDev/Exploit-Development)
+* [Getting-Started Exploit-Developmemt - Introduction](https://dayzerosec.com/blog/2021/02/02/getting-started.html)
+* [LiveOverflow-Youtube](https://www.youtube.com/c/LiveOverflow/featured)
+* [Corelan](https://www.corelan.be/)
+* [FuzzySecurity](http://fuzzysecurity.com/tutorials.html)
+* [Exploit Development](https://github.com/jopraveen/exploit-development)
+* [Huge-Exploit-Development](https://github.com/cranelab/exploit-development)
+
+
 
 
 
