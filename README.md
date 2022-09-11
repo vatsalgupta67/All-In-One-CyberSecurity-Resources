@@ -235,7 +235,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 ## Basics of Exploit Development
 
 * **Be familiar with Assembly Language**
-* **First solve some CrackMe's (Reverse Engineering)
+* **First solve some CrackMe's (Reverse Engineering)**
 * **Fuzzing**
 * **Learn something about Zero-Day Vulnerabilities**
 * **Be familiar with Pwndbg (recommended)**
