@@ -184,6 +184,75 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [ThreatNinja](https://threatninja.net) -  HTB CTF WriteUps
 * [GbHackers](https://gbhackers.com)
 
+## Some CyberSecurity Search Engines 
+#### Credits - [Julien Provenzano](https://www.linkedin.com/in/julienprovenzano)
+
+1. Pipl --- Personal information
+2. Censys --- Network mapping service
+3. CRT sh --- URL Certificate report
+4. Cyber Background Checks --- Personal information
+5. DeHashed --- Personal information
+6. Grep App --- GIT Map
+7. Keyword Shitter --- Marketing keyword
+8. Google AdWords --- Marketing keyword
+9. GrayHatWarefare --- searchable database of open S3 buckets
+10. EPIEOS --- Personal information
+11. FullHunt --- URL IP report
+12. HaveIBeenPwned --- Personal information
+13. Hunter --- Email report
+14. Intelligence x --- Email IP report
+15. Keyword Tool --- Marketing keyword
+16. KWFinder --- Marketing keyword
+17. LeakIX --- URL IP Report
+18. Firefox Monitor --- Personal information
+19. Natlas --- IP Scanner
+20. Netlas --- IP Scanner
+21. Nuclear Leaks --- Directory
+22. OSINT Framework --- Directory
+23. Packet Storm Security --- Exploits database
+24. PolySwarm --- URL Files Report
+25. PublicWWW --- Marketing keyword
+26. Pulsedive --- URL IP Report
+27. SecurityTrails --- URL IP Report
+28. Tineye --- Reverse Image
+29. URL Scan --- URL IP Report
+30. Vulners --- Exploits database
+31. Binary Edge --- IP Report
+32. Criminal IP --- IP Report
+33. Grey Noise --- IP Report
+34. Keyword discover --- Marketing keyword
+35. Onyphe --- IP Report
+36. Shodan --- Internet Of Things (IoT)
+37. ZoomEye --- Network mapping service
+38. WiGLE --- Wifi Map
+39. OSINT-Link --- Directory
+40. SignalHire --- Personal information
+41. sploitus --- Exploits database
+42. exploit-db --- Exploits database
+43. CVE Details --- Exploits database
+44. nmmapper --- Exploits database
+45. Vulmon --- Exploits database
+46. exploits.shodan --- Exploits database
+47. vulnerability-lab --- Exploits database
+48. Airport webcams --- Webcam
+49. Insecam --- Webcam
+50. Lookr --- Weather
+51. Earthcam --- Webcam
+52. Opentopia --- Webcam
+53. Pictimo --- Webcam
+54. Webcam-nl (NL) --- Webcam
+55. Webcams-travel --- Webcam
+56. Worldcam --- Webcam
+
+##### Search Engines - Github
+
+[Awesome-Search-Engines](https://github.com/edoardottt/awesome-hacker-search-engines)
+
+## CyberSecurity Documentaries
+#### Credits [Joas A Santos](https://www.linkedin.com/in/joas-antonio-dos-santos) and [Pentest-Tools](https://pentest-tools.com)
+
+[Youtube-Playlist](https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1gCZ9DdsSlWwOKNNI6ADRT3)
+
 
 # *ICS/Scada Operations*
 
