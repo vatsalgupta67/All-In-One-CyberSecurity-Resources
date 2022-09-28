@@ -269,6 +269,9 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [ICS-Pentesting-Youtube](https://youtube.com/playlist?list=PLYXlhBJ7y2_CVdbG8YGmkhJHQLsquxbu2)
 * [SANS ICS](https://www.youtube.com/c/SANSICSsecurity/featured)
 * [ICS Village](https://www.youtube.com/c/ICSVillage/featured)
+* [plcprofessor](https://www.youtube.com/user/plcprofessor)
+* [Brian Douglas](https://www.youtube.com/user/ControlLectures/videos)
+
 
 # *Red Team Operations/Adversary Emulation*
 
