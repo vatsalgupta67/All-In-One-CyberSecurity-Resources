@@ -267,6 +267,8 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [Awesome-IOT-ICS](https://github.com/reaperb0t/awesome-iot-ics-embed-pentest) - Combined short tutorials of both ICS and IOT
 * [Infosec-reference-Scada](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/SCADA.md#talks)
 * [ICS-Pentesting-Youtube](https://youtube.com/playlist?list=PLYXlhBJ7y2_CVdbG8YGmkhJHQLsquxbu2)
+* [SANS ICS](https://www.youtube.com/c/SANSICSsecurity/featured)
+* [ICS Village](https://www.youtube.com/c/ICSVillage/featured)
 
 # *Red Team Operations/Adversary Emulation*
 
@@ -283,6 +285,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [MITRE ATT&CK®](https://attack.mitre.org)
 * [awesome-red-teaming](https://github.com/an4kein/awesome-red-teaming)
 * [Red-Teaming-Toolkit-Collection](https://0xsp.com/offensive/red-teaming-toolkit-collection)
+* [SANS Offensive Operations](https://www.youtube.com/c/SANSOffensiveOperations)
 
 # *Web-Application Pentesting*
 
