@@ -311,13 +311,14 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 ## Basics of Exploit Development
 
 * **Be familiar with Assembly Language**
-* **First solve some CrackMe's (Reverse Engineering)**
+* **Learn some Reverse Engineering first**
 * **Fuzzing**
 * **Learn something about Zero-Day Vulnerabilities**
 * **Be familiar with Pwndbg (recommended)**
 * **What exactly is a shellcode**
 * **Basics of C language atleast first**
 * **System Architecture like x86, x64**
+* **Memory and CPU concepts such as memory addressing, registers and stacks**
 
 ### ***Note - [Prerequisites of Cybersecurity](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources#prerequisites-for-cybersecurity) is needed in all the sub-sets !!!!***
 
@@ -330,6 +331,8 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [FuzzySecurity](http://fuzzysecurity.com/tutorials.html)
 * [Exploit Development](https://github.com/jopraveen/exploit-development)
 * [Huge-Exploit-Development](https://github.com/cranelab/exploit-development)
+* [CryptoCat-Youtube-Playlist-BinaryExploitation](https://www.youtube.com/watch?v=wa3sMSdLyHw&list=PLHUKi1UlEgOIc07Rfk2Jgb5fZbxDPec94)
+* [PinkDraconian-playlist-BinaryExploitation](https://www.youtube.com/watch?v=W5dVsa3__N4&list=PLeSXUd883dhjnFXPf2QA0KnUnJnn9dPWy&index=1)
 
 ![giphy](https://user-images.githubusercontent.com/71017420/189520616-0c18afcb-b284-4879-abc6-58db33fb8b86.gif)
 
