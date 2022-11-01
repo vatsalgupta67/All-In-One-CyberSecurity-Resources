@@ -68,7 +68,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * JavaScript (basics) - Web related
 * PHP (basics) - Web related
 
-## Person who have some Curiosity and ready to do anything!
+## Anyone who's addicted to CyberSecurity :computer: :electric_plug: - 
 
 * Python (Recommended to all)
 * SQL (Recommended to all)
@@ -343,7 +343,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * **System Architecture like x86, x64**
 * **Memory and CPU concepts such as memory addressing, registers and stacks**
 * **Understand spiking or spike fuzzing**
-* **Lot's of Motivation to start**
+* **Lots of Motivation to start**
 
 ### ***Note - [Prerequisites of Cybersecurity](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources#prerequisites-for-cybersecurity) is needed in all the sub-sets !!!!***
 
