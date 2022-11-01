@@ -2,10 +2,10 @@
 List of CyberSecurity Resources with some different Sub-Sets of CyberSecurity.
 ## To the community, by the community and for the community
 # UNDER-DEVELOPMENT :blush: :octocat:
-## *Made with :heart: in :india:*
+## ***Made with :heart: in :india:***
  
 # Vision  
-A common updated repo for all, which can act as a pyramid for sub-sets, walkthroughs, starting points, contents and other new or demanding resources in industry. **Consists of all free and publicly available resources**
+A common updated repo for all, which  acts as a pyramid for various sub-sets, walkthroughs, starting points, contents and other new or demanding resources in industry. **Consists of all free and publicly available resources**
 
 ![Thomas-Edison-quote](https://user-images.githubusercontent.com/71017420/188928789-e8264de2-88c3-4fd6-ae4c-c58bc4f516ad.png)
 
@@ -41,7 +41,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
 ![download](https://user-images.githubusercontent.com/71017420/188929763-d85e1a4c-0df8-426d-bb80-27ca41245dcc.jpg)
 
-## ***OfSec says you must try harder!!! - Abosolutely NOT "YOU MUST TRY SMARTER"***
+## ***OffSec says you must try harder!!! - Abosolutely NOT "YOU MUST TRY SMARTER"***
 
 
 ###### well, you should know these things mentioned below - 
@@ -164,6 +164,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 4. ***OPSWAT Academy***
 5. ***Udemy***
 6. ***PluralSight***
+7. ***Udemy***
 
 ## Conferences
 
@@ -341,7 +342,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * **What exactly is a shellcode**
 * **Basics of C language atleast first**
 * **System Architecture like x86, x64**
-* **Memory and CPU concepts such as memory addressing, registers and stacks**
+* **Memory and CPU concepts such as memory addressing, registers and stack**
 * **Understand spiking or spike fuzzing**
 * **Lots of Motivation to start**
 
