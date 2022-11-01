@@ -258,6 +258,9 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
 ![images](https://user-images.githubusercontent.com/71017420/188329134-a576d3d5-c55a-4d18-a392-53393576b0fa.jpg)
 
+## Basics of ICS Pentesting - 
+
+
 * [Hacker-Arise-Scada](https://www.hackers-arise.com/scada-hacking)
 * [ICS-Pentesting-Tools](https://github.com/kh4sh3i/ICS-Pentesting-Tools)
 * [Awesome-IndustryControlSystems](https://github.com/hslatman/awesome-industrial-control-system-security)
@@ -319,6 +322,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * **Basics of C language atleast first**
 * **System Architecture like x86, x64**
 * **Memory and CPU concepts such as memory addressing, registers and stacks**
+* **Understand spiking or spike fuzzing**
 
 ### ***Note - [Prerequisites of Cybersecurity](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources#prerequisites-for-cybersecurity) is needed in all the sub-sets !!!!***
 
