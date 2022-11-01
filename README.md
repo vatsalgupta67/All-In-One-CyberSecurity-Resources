@@ -258,8 +258,23 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 
 ![images](https://user-images.githubusercontent.com/71017420/188329134-a576d3d5-c55a-4d18-a392-53393576b0fa.jpg)
 
-## Basics of ICS Pentesting - 
+## Basics of ICS Pentesting (paid/free) - 
 
+### Paid 
+
+* [Fundamentals of ICS/SCADA CyberSecurity](https://www.udemy.com/course/fundamentals-of-ot-cybersecurity/) - ***Definately recommend it. if you want to understand faster and everything is covered there.!!!***
+
+### Free 
+
+* **What is ICS, Scada, HMI mainly.**
+* **understand concept of MTU, RTU.**
+* **Difference between  IT and OT Security and what's the main difference in both compared to other.***
+* **OT is vulnerable in nature but what makes it vulnerable and why we can't resolve it by encryption.** 
+*  **Understand ICS protocols for example  Modbus, S7, Profinet, Profibus  and various other.**
+
+#### ***IMPORTANT - We can infiltrate in ICS as per configured environment and all depends on the victim's environment. you just have to explore many amazing things by yourself :)  (just research)*** 
+
+## Learning Resources!!
 
 * [Hacker-Arise-Scada](https://www.hackers-arise.com/scada-hacking)
 * [ICS-Pentesting-Tools](https://github.com/kh4sh3i/ICS-Pentesting-Tools)
@@ -269,11 +284,16 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * [Aweasome-ICS-WriteUps](https://github.com/neutrinoguy/awesome-ics-writeups)
 * [Awesome-IOT-ICS](https://github.com/reaperb0t/awesome-iot-ics-embed-pentest) - Combined short tutorials of both ICS and IOT
 * [Infosec-reference-Scada](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/SCADA.md#talks)
-* [ICS-Pentesting-Youtube](https://youtube.com/playlist?list=PLYXlhBJ7y2_CVdbG8YGmkhJHQLsquxbu2)
-* [SANS ICS](https://www.youtube.com/c/SANSICSsecurity/featured)
-* [ICS Village](https://www.youtube.com/c/ICSVillage/featured)
+* [ICS-Pentesting-Youtube](https://youtube.com/playlist?list=PLYXlhBJ7y2_CVdbG8YGmkhJHQLsquxbu2) - Watch this too
+* [SANS ICS](https://www.youtube.com/c/SANSICSsecurity/featured) - youtube
+* [ICS Village](https://www.youtube.com/c/ICSVillage/featured) - youtube
 * [plcprofessor](https://www.youtube.com/user/plcprofessor)
 * [Brian Douglas](https://www.youtube.com/user/ControlLectures/videos)
+* [Rick-Cen-Youtube](https://www.youtube.com/c/RickCenOT)
+* [Pentesting-ICS-Systems--Overview](https://resources.infosecinstitute.com/topic/pentesting-ics-systems/) - by Infosec Institute
+* [Pentesting-ICS-Systems--Methodology](https://security.packt.com/how-to-pentest-ics-environments) - recommended
+* [Cutaway-Security](https://www.youtube.com/channel/UCIYSTYxNT3D6wVFVi5r5uaA/featured) - youtube
+* [Cutaway-Security-Github](https://github.com/cutaway-security)
 
 
 # *Red Team Operations/Adversary Emulation*
@@ -323,6 +343,7 @@ A common updated repo for all, which can act as a pyramid for sub-sets, walkthro
 * **System Architecture like x86, x64**
 * **Memory and CPU concepts such as memory addressing, registers and stacks**
 * **Understand spiking or spike fuzzing**
+* **Lot's of Motivation to start**
 
 ### ***Note - [Prerequisites of Cybersecurity](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources#prerequisites-for-cybersecurity) is needed in all the sub-sets !!!!***
 
