@@ -2,7 +2,7 @@
 List of CyberSecurity Resources with some different Sub-Sets of CyberSecurity.
 ## To the community, by the community and for the community
 # UNDER-DEVELOPMENT :blush: :octocat:
-## ***Made with :heart: in :india:***
+# ***Made with :heart: in :india:***
  
 # Vision  
 A common updated repo for all, which  acts as a pyramid for various sub-sets, walkthroughs, starting points, contents and other new or demanding resources in industry. **Consists of all free and publicly available resources**
