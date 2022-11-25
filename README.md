@@ -165,7 +165,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 6. ***PluralSight***
 7. ***Edx***
 8. ***Coursera***
-9. FutureLearn***
+9. ***FutureLearn***
 10. ***Sans Community***
 11. ***YouTube***
 
@@ -300,6 +300,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 * [Pentesting-ICS-Systems--Methodology](https://security.packt.com/how-to-pentest-ics-environments) - recommended
 * [Cutaway-Security](https://www.youtube.com/channel/UCIYSTYxNT3D6wVFVi5r5uaA/featured) - youtube
 * [Cutaway-Security-Github](https://github.com/cutaway-security)
+* * CISA Training
 
 ## ICS Books
 
