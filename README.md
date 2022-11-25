@@ -1,7 +1,6 @@
 # All-In-One-CyberSecurity-Resources
 List of CyberSecurity Resources with some different Sub-Sets of CyberSecurity.
 ## To the community, by the community and for the community
-# UNDER-DEVELOPMENT :blush: :octocat:
 # ***Made with :heart: in :india:***
  
 # Vision  
