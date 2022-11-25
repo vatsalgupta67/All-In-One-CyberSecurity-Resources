@@ -73,8 +73,8 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 * SQL (Recommended to all)
 * C (basics) - Recommended basic C to all 
 * Bash (Recommended to all)
-* Csharp (Recommended to all)
-* Cpp (MOSTLY recommended to Red Team Ops)
+* Csharp (Recommended to offensive or Red Team ops)
+* C++ (MOSTLY recommended to Red Team Ops, malware developers or Researchers)
 * Assembly - (Mostly to Red Team Ops, Exploit Developers and Reverse Engineers)
 * Ruby ( Interest Based)
 * Perl (Interest Based)
@@ -158,12 +158,17 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 
 ## Platforms
 1. ***Cybrary***
-2. ***ItProTv***
+2. ***ITProTv***
 3. ***EC-Council's Codered***
 4. ***OPSWAT Academy***
 5. ***Udemy***
 6. ***PluralSight***
-7. ***Udemy***
+7. ***Edx***
+8. ***Coursera***
+9. FutureLearn***
+10. ***Sans Community***
+11. ***YouTube***
+
 
 ## Conferences
 
@@ -173,6 +178,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 * *Hack In The Box*
 * *BSides*
 * *RSA Conference*
+* *ThreatCon*
 
 ## InfosecNews and Writeups
 
@@ -294,6 +300,12 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 * [Pentesting-ICS-Systems--Methodology](https://security.packt.com/how-to-pentest-ics-environments) - recommended
 * [Cutaway-Security](https://www.youtube.com/channel/UCIYSTYxNT3D6wVFVi5r5uaA/featured) - youtube
 * [Cutaway-Security-Github](https://github.com/cutaway-security)
+
+## ICS Books
+
+* Pentesting Industrial Control Systems - Packt publishing.
+* Industrial Cybersecurity: Efficiently monitor the cybersecurity posture of your ICS environment - Packt publishing.
+* Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions - Multiple Authors.
 
 
 # *Red Team Operations/Adversary Emulation*
