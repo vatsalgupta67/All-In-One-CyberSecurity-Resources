@@ -257,7 +257,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 ## CyberSecurity Documentaries
 #### Credits [Joas A Santos](https://www.linkedin.com/in/joas-antonio-dos-santos) and [Pentest-Tools](https://pentest-tools.com)
 
-[Youtube-Playlist](https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1gCZ9DdsSlWwOKNNI6ADRT3)
+Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1gCZ9DdsSlWwOKNNI6ADRT3
 
 
 # *ICS/Scada Operations*
