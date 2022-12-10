@@ -325,6 +325,7 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 * [awesome-red-teaming](https://github.com/an4kein/awesome-red-teaming)
 * [Red-Teaming-Toolkit-Collection](https://0xsp.com/offensive/red-teaming-toolkit-collection)
 * [SANS Offensive Operations](https://www.youtube.com/c/SANSOffensiveOperations)
+* [Sevagas](https://blog.sevagas.com)
 
 # *Web-Application Pentesting*
 
