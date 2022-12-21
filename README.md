@@ -313,6 +313,16 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 
 ![cybersecurity-RED-TEAM-CYBER-partner-page](https://user-images.githubusercontent.com/71017420/188329245-2b776c57-a1ed-41e4-a22a-b0667eb74b92.png)
 
+## Basics for Red Team Ops 
+
+* **Be familiar with Network Pentesting ( till cover privilege escalation, post-exploitation and clearing tracks. This gonna help you in Red Team Methodology, so you may able to adopt things more deeper )** .
+
+*  **Always be willing to research and learn new things** .
+* **If you're good with obfuscation before, It might help you in long run** . [OPTIONAL - You can learn or figure-out it after getting into Red-Team Operations too :)]
+* **Mindset - Nothing is Secure** .
+
+## Main Resources - 
+
 * [Hacking-Articles-Red-Teaming](https://www.hackingarticles.in/red-teaming) - Most updated with deep knowledge
 * [RedTeaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
 * [Awesome-Red-Teaming-Resources](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
@@ -372,6 +382,7 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 * [Huge-Exploit-Development](https://github.com/cranelab/exploit-development)
 * [CryptoCat-Youtube-Playlist-BinaryExploitation](https://www.youtube.com/watch?v=wa3sMSdLyHw&list=PLHUKi1UlEgOIc07Rfk2Jgb5fZbxDPec94)
 * [PinkDraconian-playlist-BinaryExploitation](https://www.youtube.com/watch?v=W5dVsa3__N4&list=PLeSXUd883dhjnFXPf2QA0KnUnJnn9dPWy&index=1)
+* [Exploit Development - Cranelab](https://github.com/cranelab/exploit-development)
 
 ![giphy](https://user-images.githubusercontent.com/71017420/189520616-0c18afcb-b284-4879-abc6-58db33fb8b86.gif)
 
