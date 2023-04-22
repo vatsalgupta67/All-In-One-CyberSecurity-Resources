@@ -341,6 +341,14 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 
 ![images](https://user-images.githubusercontent.com/71017420/188921615-b1413a3c-6bbb-41fc-b33a-02397f16838a.png)
 
+## *Basics for Web-App Pentesting!!*
+
+* **If yoou understand HTML, JavaScript, Node.JS, Java and PHP. It'll always be an upper hand for you.**
+* **Web sometimes can be confusing, follow a methodology to do properly.**
+* **Atleast get familiar with basic types of web-attacks and vulnerabilities.**
+
+## Main Resources -
+
 * [Portswigger-Academy](https://portswigger.net) - Practical learning
 * [Web-Application-Pentesting](https://sango667.medium.com/resources-for-web-application-penetration-testing-95f64bb8333f) - Medium writeups for beginners to level-up.
 * [Web-Tools-Resources](https://gbhackers.com/web-application-security-tools-resources)
