@@ -1,0 +1,2 @@
+- name: social-ai-action
+  uses: elangosundar/social-ai@V1.1.2
