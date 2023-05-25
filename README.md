@@ -100,7 +100,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 
 ## Websites
 
-* [Hackers-arise](https://www.hackers-arise.com) by a amazing person - Occupy The Web
+* [Hackers-arise](https://www.hackers-arise.com) by an amazing person - Occupy The Web
 * [Hacking Articles](https://www.hackingarticles.in) by Ignite Technologies India
 * [Null-Byte](https://null-byte.wonderhowto.com) 
 * [HackerSploit](https://hackersploit.org)
@@ -119,6 +119,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 * HackThisSite
 * Proving Grounds
 * VulnHub
+* Setup your own VM Environment
 
 ## Simple GitHub CyberSecurity - Penetesting Repos
 * [Aweasome-CyberSecurity](https://github.com/fabionoth/awesome-cyber-security)
@@ -168,6 +169,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 9. ***FutureLearn***
 10. ***Sans Community***
 11. ***YouTube***
+12. ***Google and Research***
 
 
 ## Conferences
@@ -300,7 +302,8 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 * [Pentesting-ICS-Systems--Methodology](https://security.packt.com/how-to-pentest-ics-environments) - recommended
 * [Cutaway-Security](https://www.youtube.com/channel/UCIYSTYxNT3D6wVFVi5r5uaA/featured) - youtube
 * [Cutaway-Security-Github](https://github.com/cutaway-security)
-* * CISA Training
+* [CISA Training](https://www.cisa.gov/ics-training-available-through-cisa)
+* [CISA's Training Portal](https://ics-training.inl.gov/learn)
 
 ## ICS Books
 
@@ -315,9 +318,10 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 
 ## Basics for Red Team Ops 
 
-* **Be familiar with Network Pentesting ( till cover privilege escalation, post-exploitation and clearing tracks. This gonna help you in Red Team Methodology, so you may able to adopt things more deeper )** .
+* **Be familiar with Network Pentesting ( till  privilege escalation, post-exploitation and clearing tracks. This gonna help you in Red Team Methodology, so you may able to adopt things more deeper )** .
 
-*  **Always be willing to research and learn new things** .
+* **Requires practice and deep understanding cause Red Team Operations are totally Real-World and there's tons of things to explore !!!** .
+*  **Always be willing to research and learn new things daily** .
 * **If you're good with obfuscation before, It might help you in long run** . [OPTIONAL - You can learn or figure-out it after getting into Red-Team Operations too :)]
 * **Mindset - Nothing is Secure** .
 
