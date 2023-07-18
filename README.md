@@ -351,7 +351,7 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 
 ## *Basics for Web-App Pentesting!!*
 
-* **If yoou understand HTML, JavaScript, Node.JS, Java and PHP. It'll always be an upper hand for you.**
+* **If you understand HTML, JavaScript, Node.JS, Java and PHP. It'll always be an upper hand for you.**
 * **Web sometimes can be confusing, follow a methodology to do properly.**
 * **Atleast get familiar with basic types of web-attacks and vulnerabilities.**
 
