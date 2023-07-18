@@ -82,7 +82,8 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 * Perl (Interest Based)
 * Go (Interest Based)
 * JavaScript (basic) - Web-Apps Pentesters
-   Powershell - Recommended to all
+
+* Powershell - Recommended to all
 * PHP (basic) - Web-Apps Pentesters
 * nodejs ( Recommended to WebApps Pentesters ....) - Nowdays, Corporates started moving towards nodejs rather than PHP
 * Lua ( Interest Based......)
