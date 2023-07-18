@@ -62,16 +62,18 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 
 * Python
 * Bash
-* C (basics) - some understanding is **OK**
+* C - Atleast basics are **good**
+  
 * SQL
 * JavaScript (basics) - Web related
 * PHP (basics) - Web related
+* Powershell - Some understanding is **Good**
 
 ## Anyone who's addicted to CyberSecurity :computer: :electric_plug: - 
 
 * Python (Recommended to all)
 * SQL (Recommended to all)
-* C (basics) - Recommended basic C to all 
+* C Recommended to all 
 * Bash (Recommended to all)
 * Csharp (Recommended to offensive or Red Team ops)
 * C++ (MOSTLY recommended to Red Team Ops, malware developers or Researchers)
@@ -80,6 +82,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 * Perl (Interest Based)
 * Go (Interest Based)
 * JavaScript (basic) - Web-Apps Pentesters
+   Powershell - Recommended to all
 * PHP (basic) - Web-Apps Pentesters
 * nodejs ( Recommended to WebApps Pentesters ....) - Nowdays, Corporates started moving towards nodejs rather than PHP
 * Lua ( Interest Based......)
