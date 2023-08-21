@@ -288,7 +288,8 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 
 ## Learning Resources!!
 
-* [Hacker-Arise-Scada](https://www.hackers-arise.com/scada-hacking)
+* [Practical Industrial Control System Penetration Testing - Udemy](https://www.udemy.com/course/practical-ics-pentesting) - Recommended
+* [Hacker-Arise-Scada](https://www.hackers-arise.com/scada-hacking) - Recommedended
 * [ICS-Pentesting-Tools](https://github.com/kh4sh3i/ICS-Pentesting-Tools)
 * [Awesome-IndustryControlSystems](https://github.com/hslatman/awesome-industrial-control-system-security)
 * [ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools)
@@ -302,12 +303,20 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 * [plcprofessor](https://www.youtube.com/user/plcprofessor)
 * [Brian Douglas](https://www.youtube.com/user/ControlLectures/videos)
 * [Rick-Cen-Youtube](https://www.youtube.com/c/RickCenOT)
+* [How to Pentest ICS Environments](https://security.packt.com/how-to-pentest-ics-environments)
 * [Pentesting-ICS-Systems--Overview](https://resources.infosecinstitute.com/topic/pentesting-ics-systems/) - by Infosec Institute
 * [Pentesting-ICS-Systems--Methodology](https://security.packt.com/how-to-pentest-ics-environments) - recommended
+* [scadahacker](https://scadahacker.com)
+* [ICS cybersecurity academy](https://ics-cybersecurity.academy)
 * [Cutaway-Security](https://www.youtube.com/channel/UCIYSTYxNT3D6wVFVi5r5uaA/featured) - youtube
 * [Cutaway-Security-Github](https://github.com/cutaway-security)
-* [CISA Training](https://www.cisa.gov/ics-training-available-through-cisa)
-* [CISA's Training Portal](https://ics-training.inl.gov/learn)
+* [A Collection of Resources for Getting Started in ICS/SCADA Cybersecurity](https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity)
+* [controlthings.io](https://www.controlthings.io/home)
+* [ICS and PLC Pentesting and Hacking](https://github.com/miguelob/ICS-Hacking)
+* [Free Industrial Control System (ICS) Cyber Security Training Course](https://instrumentationtools.com/free-industrial-control-system-ics-cyber-security-training-course)
+* [CISA Training](https://www.cisa.gov/ics-training-available-through-cisa) - Recommended
+* [CISA's Training Portal](https://ics-training.inl.gov/learn) - Recommended
+  
 
 ## ICS Books
 
