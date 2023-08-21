@@ -73,7 +73,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 
 * Python (Recommended to all)
 * SQL (Recommended to all)
-* C Recommended to all 
+* C Recommended to all
 * Bash (Recommended to all)
 * Csharp (Recommended to offensive or Red Team ops)
 * C++ (MOSTLY recommended to Red Team Ops, malware developers or Researchers)
