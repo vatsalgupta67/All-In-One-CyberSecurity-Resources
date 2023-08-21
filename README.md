@@ -82,6 +82,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 * Perl (Interest Based)
 * Go (Interest Based)
 * JavaScript (basic) - Web-Apps Pentesters
+* Nim - Interest based or Red Team Ops
 
 * Powershell - Recommended to all
 * PHP (basic) - Web-Apps Pentesters
@@ -376,7 +377,7 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 * [WebSecurity-Stuff](https://relevant.software/blog/penetration-testing-for-web-applications)
 * [Owasp-Juice-Shop](https://github.com/juice-shop/juice-shop) - Helps to learn and deal web vulnerabilities.
 
-# Exploit Development
+# Exploit Development (Windows/Linux Both)
 
 <img width="754" alt="pwndbg_context" src="https://user-images.githubusercontent.com/71017420/189518826-7182ce33-d57b-42ba-8f1c-b85ab9d7953e.png">
 
@@ -386,7 +387,7 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 * **Learn some Reverse Engineering first**
 * **Fuzzing**
 * **Learn something about Zero-Day Vulnerabilities**
-* **Be familiar with Pwndbg (recommended)**
+* **Debugging ( basics )**
 * **What exactly is a shellcode**
 * **Basics of C language atleast first**
 * **System Architecture like x86, x64**
