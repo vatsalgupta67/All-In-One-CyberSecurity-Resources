@@ -146,6 +146,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 * [Awesome-Blue-Team-CyberSecurity](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 * [Awesome-Infosec](https://github.com/onlurking/awesome-infosec)
 * [CyberSecurity](https://github.com/harisqazi1/Cybersecurity)
+* [NIST CyberSecurity Resources](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content)
 
 
 ![giphy (1)](https://user-images.githubusercontent.com/71017420/188283309-377e2078-55ae-4974-b91b-8a52b27db27d.gif)
