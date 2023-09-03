@@ -340,6 +340,8 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 * **If you're good with obfuscation before, It might help you in long run** . [OPTIONAL - You can learn or figure-out it after getting into Red-Team Operations too :)]
 * **Mindset - Nothing is Secure** .
 
+![MITRE-Eval-Blog-Image2-1](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/assets/71017420/789c3b94-f788-4f0f-845c-d8a7a16e72f4)
+
 ## Main Resources - 
 
 * [Hacking-Articles-Red-Teaming](https://www.hackingarticles.in/red-teaming) - Most updated with deep knowledge
