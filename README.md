@@ -350,7 +350,7 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 * [Red-Teaming/Adversary-Emulation](https://0x1.gitlab.io/pentesting/Red-Teaming-Toolkit)
 * [Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#further-resources)
 * [Adversary-Emulation-Library](https://github.com/center-for-threat-informed-defense/adversary_emulation_library)
-* [MITRE ATT&CK®](https://attack.mitre.org)
+* [MITRE ATT&CK®](https://attack.mitre.org) - Must read & adopt in Red Team Operations to sharpen your skills, always be curious and ready to Emulate 
 * [awesome-red-teaming](https://github.com/an4kein/awesome-red-teaming)
 * [Red-Teaming-Toolkit-Collection](https://0xsp.com/offensive/red-teaming-toolkit-collection)
 * [SANS Offensive Operations](https://www.youtube.com/c/SANSOffensiveOperations)
