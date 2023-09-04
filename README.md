@@ -2,6 +2,11 @@
 List of CyberSecurity Resources with some different Sub-Sets of CyberSecurity.
 ## To the community, by the community and for the community
 # ***Made with :heart: in :india:***
+
+
+  ![image](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/assets/71017420/2bc92c98-ea5a-4cf8-b8b3-cde3fc18ed79)
+
+
  
 # Vision  
 A common updated repo for all, which  acts as a pyramid for various sub-sets, walkthroughs, starting points, contents and other new or demanding resources in industry. **Consists of all free and publicly available resources**
@@ -266,6 +271,46 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 #### Credits [Joas A Santos](https://www.linkedin.com/in/joas-antonio-dos-santos) and [Pentest-Tools](https://pentest-tools.com)
 
 Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1gCZ9DdsSlWwOKNNI6ADRT3
+
+
+# *Computer Networking* 
+
+   ![network](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/assets/71017420/0c435864-e0bc-48cd-9c7c-3c049463491c)
+
+## Networking topics for CyberSecurity
+
+
+* *IP Addressing - IPv4,IPv6*
+* *Subnetting & CIDR Notation*
+* *MAC Addressing & why we use*
+* *What is ISP*
+* *TCP/IP Model*
+* *OSI Model ( Reference or to understand only)*
+* *Wide Area Network, lan Area Network, Personal Area Network, Metropolitan Area Network*
+* *Accces Point, Router, WIFI Technology*
+* *Maximum Trnsmitting Unit ( MTU )*
+* *TCP 3 way handshake*
+* *UDP*
+* *ICMP*
+* *DNS protocol*
+* *ARP*
+* *Broadcasting*
+* *Bits,Bytes & data packet architecture*
+* *Fragmentation*
+* *VPN & Socks proxy*
+* *DNS servers like cloudflare, google, default etc*
+* *Routing*
+* *Port nummbers & services*
+* *FTP*
+* *SMTP, POP3, IMAP*
+* *HTTP,HTTPS*
+* *Understand urls*
+* *Port forwarding*
+* *Packet Header Form*
+* *As I listed services like DNS, SMTP, HTTPS, SNMP, DHCP etc* - ***keep learning many of them time to time***
+* *Network Topology*
+* *Physical Network cables*
+* *Firewalls, Intrusion detection system ( IDS ), Intrusion Prevention system ( IPS )* - ***workings, use & types***
 
 
 # *ICS/Scada Operations*
