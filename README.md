@@ -65,9 +65,6 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 ![images](https://user-images.githubusercontent.com/71017420/188496502-581d07c7-3e93-4fb2-b63c-12ace1a6e5f8.jpg)
 
 
-
-
-
 ## Beginners
 * Python - According to us, we'll suggest to learn Python first
 
@@ -108,6 +105,11 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 ![image](https://user-images.githubusercontent.com/71017420/188282836-e1017b37-d11d-46c8-9a81-b0788e15c51c.jpg)
 
 # *Common CyberSecurity Resources*
+
+
+  ![matrix](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/assets/71017420/a5b62bd5-ec49-4410-8249-725de59c069e)
+
+
 
 ## Youtube Channels
 
