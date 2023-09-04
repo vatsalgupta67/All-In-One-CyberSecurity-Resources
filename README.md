@@ -30,6 +30,8 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 
 ![respect](https://user-images.githubusercontent.com/71017420/187759532-30ab6b9b-416a-475c-9915-26f71c91c0ca.jpeg)
 
+
+
 ## Some important key points in industry
 
   * ###### Programming is the key element of everything and you must know, atleast understand some programs first.
@@ -45,6 +47,8 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 
 ![download](https://user-images.githubusercontent.com/71017420/188929763-d85e1a4c-0df8-426d-bb80-27ca41245dcc.jpg)
 
+
+
 ## ***OffSec says you must try harder!!! - Abosolutely NOT "YOU MUST TRY SMARTER"***
 
 
@@ -59,6 +63,10 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 # *Our suggestion on Programming Languages*
 
 ![images](https://user-images.githubusercontent.com/71017420/188496502-581d07c7-3e93-4fb2-b63c-12ace1a6e5f8.jpg)
+
+
+
+
 
 ## Beginners
 * Python - According to us, we'll suggest to learn Python first
@@ -276,6 +284,10 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 # *Computer Networking* 
 
    ![network](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/assets/71017420/0c435864-e0bc-48cd-9c7c-3c049463491c)
+
+
+
+   
 
 ## Networking topics for CyberSecurity
 
