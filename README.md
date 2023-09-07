@@ -103,7 +103,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 * Some Basic knowledge of visual basic, Powershell scripting (MOSTLY Red Team Ops) - Basically Windows based languages [***OPTIONAL, But you should be good in googling then it's optional for you. Sometimes we just need to ready our things on research basis***]
 
 
-![image](https://user-images.githubusercontent.com/71017420/188282836-e1017b37-d11d-46c8-9a81-b0788e15c51c.jpg)
+    ![image](https://user-images.githubusercontent.com/71017420/188282836-e1017b37-d11d-46c8-9a81-b0788e15c51c.jpg)
 
 # *Common CyberSecurity Resources*
 
