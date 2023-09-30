@@ -407,6 +407,7 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 
 * [Hacking-Articles-Red-Teaming](https://www.hackingarticles.in/red-teaming) - Most updated with deep knowledge
 * [RedTeaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
+* [oddvar.moe](https://oddvar.moe/)
 * [Awesome-Red-Teaming-Resources](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 * [Red-Team-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity)
 * [Awesome-Red-Team-Operations](https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations)
