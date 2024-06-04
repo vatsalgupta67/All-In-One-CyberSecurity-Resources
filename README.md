@@ -50,7 +50,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 
 
 
-## ***OffSec says you must try harder!!! - Abosolutely NOT "YOU MUST TRY SMARTER"***
+## ***OffSec says you must try harder!!! - Abosolutely NOT, "YOU MUST TRY SMARTER"***
 
 
 ###### well, you should know these things mentioned below - 
@@ -332,7 +332,7 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 
 ![images](https://user-images.githubusercontent.com/71017420/188329134-a576d3d5-c55a-4d18-a392-53393576b0fa.jpg)
 
-## Basics of ICS Pentesting (paid/free) - 
+## Basics of ICS Pentesting (Paid/Free) - 
 
 ### Paid 
 
