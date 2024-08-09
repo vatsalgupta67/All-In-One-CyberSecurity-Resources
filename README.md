@@ -23,7 +23,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 * [Prerequisites for CyberSecurity](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources#prerequisites-for-cybersecurity)
 * [Programming Languages Suggestion](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources#our-suggestion-on-programming-languages)
 * [Computer Networking](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/tree/main#computer-networking)
-* [Commonn-CyberSecurity-Resources](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#common-cybersecurity-resources)
+* [Common-CyberSecurity-Resources](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#common-cybersecurity-resources)
 * [ICS/SCADA Operations](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#icsscada-operations)
 * [Red Team Operations/Adversary Emulation](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#red-team-operationsadversary-emulation)
 * [Web-Application-Pentesting](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#web-application-pentesting)
