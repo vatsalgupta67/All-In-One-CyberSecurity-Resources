@@ -1,6 +1,9 @@
 # All-In-One-CyberSecurity-Resources - LOT MORE COMING !!
+
 List of CyberSecurity Resources with some different Sub-Sets of CyberSecurity.
-## To the community, by the community and for the community
+
+## To the community, by the community and for the community.
+
 # ***Made with :heart: in :india:***
 
 
@@ -27,7 +30,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 * [Exploit-Development](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#exploit-development)
 
 
-### Respect to  original creators who worked really hard for creating Aweasome Resources for our Industry -
+**####** Respect to  original creators who worked really hard for creating Aweasome Resources for our Industry -
 
 ![respect](https://user-images.githubusercontent.com/71017420/187759532-30ab6b9b-416a-475c-9915-26f71c91c0ca.jpeg)
 
@@ -61,7 +64,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 5. Computer Networking - *Something you must know* - **Again same answer, it's Youtube**.
 6. Research or Googling - *Very Important in CyberSecurity*.
 
-# *Our suggestion on Programming Languages*
+# *Our suggestions on Programming Languages*
 
 ![images](https://user-images.githubusercontent.com/71017420/188496502-581d07c7-3e93-4fb2-b63c-12ace1a6e5f8.jpg)
 
