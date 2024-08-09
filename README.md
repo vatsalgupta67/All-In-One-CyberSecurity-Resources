@@ -30,7 +30,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 * [Exploit-Development](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#exploit-development)
 
 
-**### Respect to  original creators who worked really hard for creating Aweasome Resources for our Industry -**
+#### **Respect to  original creators who worked really hard for creating Aweasome Resources for our Industry -**
 
 ![respect](https://user-images.githubusercontent.com/71017420/187759532-30ab6b9b-416a-475c-9915-26f71c91c0ca.jpeg)
 
