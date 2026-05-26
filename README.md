@@ -258,24 +258,25 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 36. Shodan --- Internet Of Things (IoT)
 37. ZoomEye --- Network mapping service
 38. WiGLE --- Wifi Map
-39. OSINT-Link --- Directory
-40. SignalHire --- Personal information
-41. sploitus --- Exploits database
-42. exploit-db --- Exploits database
-43. CVE Details --- Exploits database
-44. nmmapper --- Exploits database
-45. Vulmon --- Exploits database
-46. exploits.shodan --- Exploits database
-47. vulnerability-lab --- Exploits database
-48. Airport webcams --- Webcam
-49. Insecam --- Webcam
-50. Lookr --- Weather
-51. Earthcam --- Webcam
-52. Opentopia --- Webcam
-53. Pictimo --- Webcam
-54. Webcam-nl (NL) --- Webcam
-55. Webcams-travel --- Webcam
-56. Worldcam --- Webcam
+39. CVE PoC Search --- Search public GitHub proof-of-concept repositories by CVE identifier
+40. OSINT-Link --- Directory
+41. SignalHire --- Personal information
+42. sploitus --- Exploits database
+43. exploit-db --- Exploits database
+44. CVE Details --- Exploits database
+45. nmmapper --- Exploits database
+46. Vulmon --- Exploits database
+47. exploits.shodan --- Exploits database
+48. vulnerability-lab --- Exploits database
+49. Airport webcams --- Webcam
+50. Insecam --- Webcam
+51. Lookr --- Weather
+52. Earthcam --- Webcam
+53. Opentopia --- Webcam
+54. Pictimo --- Webcam
+55. Webcam-nl (NL) --- Webcam
+56. Webcams-travel --- Webcam
+57. Worldcam --- Webcam
 
 #### Search Engines - Github
 
@@ -479,8 +480,6 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 * [Exploit Development - Cranelab](https://github.com/cranelab/exploit-development)
 
 ![giphy](https://user-images.githubusercontent.com/71017420/189520616-0c18afcb-b284-4879-abc6-58db33fb8b86.gif)
-
-
 
 
 
