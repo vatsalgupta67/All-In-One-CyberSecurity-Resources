@@ -26,6 +26,7 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 * [Common-CyberSecurity-Resources](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#common-cybersecurity-resources)
 * [ICS/SCADA Operations](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#icsscada-operations)
 * [Red Team Operations/Adversary Emulation](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#red-team-operationsadversary-emulation)
+* [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Open-source, self-hosted AI agent for autonomous penetration testing of web apps, APIs, Active Directory and Kubernetes; ships a local Privacy Gateway that tokenizes sensitive data so the LLM never sees the real values (GPL-3.0).
 * [Web-Application-Pentesting](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#web-application-pentesting)
 * [Exploit-Development](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#exploit-development)
 
