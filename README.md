@@ -477,6 +477,7 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 * [CryptoCat-Youtube-Playlist-BinaryExploitation](https://www.youtube.com/watch?v=wa3sMSdLyHw&list=PLHUKi1UlEgOIc07Rfk2Jgb5fZbxDPec94)
 * [PinkDraconian-playlist-BinaryExploitation](https://www.youtube.com/watch?v=W5dVsa3__N4&list=PLeSXUd883dhjnFXPf2QA0KnUnJnn9dPWy&index=1)
 * [Exploit Development - Cranelab](https://github.com/cranelab/exploit-development)
+* [RowShield](https://rowshield.dev) - Probes a deployed Supabase app for reachable and exposed data, then monitors connected projects for RLS and schema drift.
 
 ![giphy](https://user-images.githubusercontent.com/71017420/189520616-0c18afcb-b284-4879-abc6-58db33fb8b86.gif)
 
